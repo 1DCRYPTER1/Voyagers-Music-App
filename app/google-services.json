@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070313154023",
+    "firebase_url": "https://voyagersofficial.firebaseio.com",
+    "project_id": "voyagersofficial",
+    "storage_bucket": "voyagersofficial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070313154023:android:909373c1e9deea26888942",
+        "android_client_info": {
+          "package_name": "com.example.voyagersofficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070313154023-hm9i32rgd24i9uitb7hma9d96rel73ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0d9fNKNfN8r7TOmSSQASC_6mtVqg9Cac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070313154023-hm9i32rgd24i9uitb7hma9d96rel73ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
